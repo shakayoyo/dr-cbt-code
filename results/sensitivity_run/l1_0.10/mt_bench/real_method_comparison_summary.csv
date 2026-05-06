@@ -1,0 +1,6 @@
+method,stable_pair_precision,stable_pair_recall,topk_precision,topk_recall,avg_set_size
+fixed_target_ci_certified_bt,0.9833333333333334,1.0,1.0,1.0,3.0
+fixed_target_contextual_bt,0.9333333333333333,1.0,1.0,1.0,3.0
+marginal_bt,0.9333333333333333,1.0,1.0,1.0,3.0
+source_contextual_bt,0.9333333333333333,1.0,1.0,1.0,3.0
+ss_cbt,0.95,1.0,1.0,1.0,3.0

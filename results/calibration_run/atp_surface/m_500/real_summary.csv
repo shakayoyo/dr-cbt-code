@@ -1,0 +1,6 @@
+mixture,top1_model,top3_fixed,stable_topk_size,stable_topk_models
+balanced,Carlos Alcaraz,"Carlos Alcaraz, Andrey Rublev, Daniil Medvedev",3,"Carlos Alcaraz, Andrey Rublev, Daniil Medvedev"
+clay_heavy,Carlos Alcaraz,"Carlos Alcaraz, Andrey Rublev, Daniil Medvedev",2,"Carlos Alcaraz, Andrey Rublev"
+grass_heavy,Carlos Alcaraz,"Carlos Alcaraz, Andrey Rublev, Daniil Medvedev",3,"Carlos Alcaraz, Andrey Rublev, Daniil Medvedev"
+hard_heavy,Carlos Alcaraz,"Carlos Alcaraz, Jannik Sinner, Daniil Medvedev",3,"Carlos Alcaraz, Jannik Sinner, Daniil Medvedev"
+source_mix,Carlos Alcaraz,"Carlos Alcaraz, Andrey Rublev, Jannik Sinner",1,Carlos Alcaraz

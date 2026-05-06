@@ -1,0 +1,5 @@
+mixture,top1_model,top3_fixed,stable_topk_size,stable_topk_models
+balanced,gpt-4,"gpt-4, claude-v1, gpt-3.5-turbo",3,"gpt-4, claude-v1, gpt-3.5-turbo"
+coding_heavy,gpt-4,"gpt-4, gpt-3.5-turbo, claude-v1",3,"gpt-4, gpt-3.5-turbo, claude-v1"
+source_mix,gpt-4,"gpt-4, claude-v1, gpt-3.5-turbo",3,"gpt-4, claude-v1, gpt-3.5-turbo"
+writing_heavy,gpt-4,"gpt-4, claude-v1, gpt-3.5-turbo",3,"gpt-4, claude-v1, gpt-3.5-turbo"
