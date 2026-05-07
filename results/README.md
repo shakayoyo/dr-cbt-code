@@ -2,7 +2,7 @@
 
 This directory stores the final result folders used in the paper.
 
-- `final_run/`: synthetic benchmark summaries and paper-ready figures
+- `final_run/`: synthetic benchmark summaries, raw metrics, and `paper_figures/`
 - `real_run/`: MT-Bench, Arena, ATP, and WTA real-data benchmark outputs
 - `shift_stress_run/`: deployment-shift stress-test outputs
 - `matched_ci_run/`: matched-size comparison against the fixed-target CI baseline

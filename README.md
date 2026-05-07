@@ -59,7 +59,7 @@ python -m scripts.generate_tables_figures --input-dir results/final_run --output
 
 This repository includes the final result folders used in the paper:
 
-- `results/final_run/`: synthetic benchmark summaries and paper figures
+- `results/final_run/`: synthetic benchmark summaries, raw metrics, and `paper_figures/`
 - `results/real_run/`: MT-Bench, Arena, ATP, and WTA real-data benchmark outputs
 - `results/shift_stress_run/`: deployment-shift stress-test outputs
 - `results/matched_ci_run/`: matched-size comparison against the fixed-target CI baseline
