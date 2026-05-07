@@ -55,6 +55,26 @@ python -m scripts.run_shift_stress_test --config config/default.yaml --output-di
 python -m scripts.generate_tables_figures --input-dir results/final_run --output-dir results/final_run --real-dir results/real_run/mt_bench
 ```
 
+## Script guide
+
+The scripts in `scripts/` fall into two groups.
+
+Main paper pipeline:
+
+- `run_experiments.py`: main synthetic benchmark
+- `run_real_data.py`: MT-Bench, Arena, ATP, and WTA real-data benchmark suite
+- `run_shift_stress_test.py`: deployment-family stress test
+- `generate_tables_figures.py`: paper-facing summary tables and core figures
+- `make_paper_figures.py`: copies final paper-facing figures into `results/final_run/paper_figures/`
+
+Supplementary analysis:
+
+- `run_real_matched_ci.py`: matched-size comparison against the fixed-target CI baseline
+- `run_uncertainty_sensitivity.py`: uncertainty-radius sensitivity analysis
+- `run_target_sample_calibration.py`: target-sample calibration analysis
+
+Additional development scripts may remain in the repository for completeness, but the final bundled outputs in `results/` correspond to the paper-facing pipeline and the three supplementary analyses above.
+
 ## Included outputs
 
 This repository includes the final result folders used in the paper:
