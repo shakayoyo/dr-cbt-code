@@ -1,5 +1,0 @@
-mixture,top1_model,top3_fixed,certified_stable_topk_size,certified_stable_topk_models,exact_stable_topk_size,exact_stable_topk_models
-balanced,gemini-2.5-pro,"gemini-2.5-pro, o3-2025-04-16, gemini-2.5-flash",1,gemini-2.5-pro,1,gemini-2.5-pro
-english_heavy,gemini-2.5-pro,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16",3,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16",3,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16"
-non_english_heavy,gemini-2.5-pro,"gemini-2.5-pro, o3-2025-04-16, gemini-2.5-flash",1,gemini-2.5-pro,1,gemini-2.5-pro
-source_mix,gemini-2.5-pro,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16",3,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16",3,"gemini-2.5-pro, chatgpt-4o-latest-20250326, o3-2025-04-16"

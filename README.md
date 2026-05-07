@@ -57,12 +57,16 @@ python -m scripts.generate_tables_figures --input-dir results/final_run --output
 
 ## Included outputs
 
-This repository already includes the outputs used in the paper:
+This repository includes the final result folders used in the paper:
 
-- synthetic benchmark summaries and figures in `results/final_run/`
-- real-data benchmark outputs in `results/real_run/`
-- deployment-shift stress-test outputs in `results/shift_stress_run/`
-- sensitivity and calibration outputs in their corresponding result folders
+- `results/final_run/`: synthetic benchmark summaries and paper figures
+- `results/real_run/`: MT-Bench, Arena, ATP, and WTA real-data benchmark outputs
+- `results/shift_stress_run/`: deployment-shift stress-test outputs
+- `results/matched_ci_run/`: matched-size comparison against the fixed-target CI baseline
+- `results/sensitivity_run/`: uncertainty-radius sensitivity outputs
+- `results/calibration_run/`: target-sample calibration outputs
+
+Intermediate smoke tests, refresh runs, and earlier radius-specific variants are intentionally omitted from this repository snapshot.
 
 ## Notes on the real-data benchmarks
 
@@ -74,4 +78,3 @@ The real-data pipeline includes the benchmark suites used in the paper, includin
 - WTA surface mixtures.
 
 The evaluation code reports both certified stable top-`k` summaries and, on the small benchmark instances considered in the paper, exact stable top-`k` summaries.
-

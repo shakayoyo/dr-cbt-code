@@ -1,6 +1,0 @@
-mixture,top1_model,top3_fixed,certified_stable_topk_size,certified_stable_topk_models,exact_stable_topk_size,exact_stable_topk_models
-balanced,Aryna Sabalenka,"Aryna Sabalenka, Liudmila Samsonova, Iga Swiatek",3,"Aryna Sabalenka, Liudmila Samsonova, Iga Swiatek",3,"Aryna Sabalenka, Liudmila Samsonova, Iga Swiatek"
-clay_heavy,Liudmila Samsonova,"Liudmila Samsonova, Aryna Sabalenka, Iga Swiatek",3,"Liudmila Samsonova, Aryna Sabalenka, Iga Swiatek",3,"Liudmila Samsonova, Aryna Sabalenka, Iga Swiatek"
-grass_heavy,Aryna Sabalenka,"Aryna Sabalenka, Iga Swiatek, Liudmila Samsonova",2,"Aryna Sabalenka, Iga Swiatek",2,"Aryna Sabalenka, Iga Swiatek"
-hard_heavy,Aryna Sabalenka,"Aryna Sabalenka, Iga Swiatek, Coco Gauff",2,"Aryna Sabalenka, Iga Swiatek",2,"Aryna Sabalenka, Iga Swiatek"
-source_mix,Aryna Sabalenka,"Aryna Sabalenka, Iga Swiatek, Coco Gauff",2,"Aryna Sabalenka, Iga Swiatek",2,"Aryna Sabalenka, Iga Swiatek"

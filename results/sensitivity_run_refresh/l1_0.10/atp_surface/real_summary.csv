@@ -1,6 +1,0 @@
-mixture,top1_model,top3_fixed,certified_stable_topk_size,certified_stable_topk_models,exact_stable_topk_size,exact_stable_topk_models
-balanced,Novak Djokovic,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner"
-clay_heavy,Novak Djokovic,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner"
-grass_heavy,Novak Djokovic,"Novak Djokovic, Carlos Alcaraz, Felix Auger Aliassime",3,"Novak Djokovic, Carlos Alcaraz, Felix Auger Aliassime",3,"Novak Djokovic, Carlos Alcaraz, Felix Auger Aliassime"
-hard_heavy,Novak Djokovic,"Novak Djokovic, Carlos Alcaraz, Daniil Medvedev",2,"Novak Djokovic, Carlos Alcaraz",2,"Novak Djokovic, Carlos Alcaraz"
-source_mix,Novak Djokovic,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner",3,"Novak Djokovic, Carlos Alcaraz, Jannik Sinner"

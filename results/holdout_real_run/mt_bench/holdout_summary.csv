@@ -1,6 +1,0 @@
-method,stable_pair_precision,stable_pair_recall,topk_precision,topk_recall,topk_f1,avg_set_size,benchmark
-fixed_target_ci_certified_bt,0.9757440476190475,0.9241071428571428,1.0,1.0,1.0,3.0,mt_bench
-fixed_target_contextual_bt,0.9208333333333334,0.9697916666666666,1.0,1.0,1.0,3.0,mt_bench
-marginal_bt,0.9166666666666667,0.9654761904761905,1.0,1.0,1.0,3.0,mt_bench
-source_contextual_bt,0.9166666666666667,0.9654761904761905,1.0,1.0,1.0,3.0,mt_bench
-ss_cbt,0.9563988095238095,0.9525297619047619,1.0,1.0,1.0,3.0,mt_bench
